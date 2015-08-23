@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P22801</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Search">Search</string>
+    <string name="start">START</string>
+</resources>
